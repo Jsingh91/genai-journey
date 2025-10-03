@@ -2,3 +2,4 @@
 
 - Git installed and configured.
 - Repo cloned locally.
+SSH works ✅
